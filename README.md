@@ -1,9 +1,13 @@
 # Tugas 2
 
 Untuk memenuhi tugas 2 pada matakuliah Pemrograman Berbasis Piranti Bergerak/MSIM4401
+
 Nama: Taufik Maulana
+
 NIM: 044358006
+
 Prodi: Sistem Informasi
+
 UPBJJ: Bandung
 
 # How to?
