@@ -12,10 +12,15 @@ UPBJJ: Bandung
 
 # How to?
 
-Simply run serve on your local machine
+Clone repo
 
 ```
-git pull https://github.com/tombo0/tugas2-MSIM4401.git
+git clone https://github.com/tombo0/tugas2-MSIM4401.git
 cd tugas2-MSIM4401
+```
+
+Simply run serve on your local machine
+```
+npm install
 ionic serve
 ```
